@@ -12,7 +12,7 @@ const state = {
 
 // Paste your live survey link here. Works with Google Forms, Tally, Typeform or Microsoft Forms.
 // Example: const SURVEY_URL = "https://forms.gle/your-form-link";
-const SURVEY_URL = "PASTE_YOUR_SURVEY_LINK_HERE";
+const SURVEY_URL = "https://docs.google.com/forms/d/1CF5zXf24RIpM596t8N40-EW22XGCWBsAVlPuBwYah3M/edit";
 
 const totalSteps = 13;
 const screen = document.getElementById("screen");
